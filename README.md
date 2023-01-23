@@ -1,4 +1,4 @@
-# Hi there, my name is Daniel Miranda <img src="" alt='pic' align="right" height="150" style="border-radius:50px;"  />
+# Hi there, my name is Daniel Miranda <img src="https://github.com/danieldsmiranda/danieldsmiranda/blob/main/Imagem.png?raw=true" alt='pic' align="right" height="150" style="border-radius:50px;"  />
 I'm from Portugal, and i'm currently studying computer engineering at the Polytechnic Institute of Viana do Castelo.
 
 ## Skills <img src="https://github.com/danieldsmiranda/danieldsmiranda/blob/main/Imagem.png?raw=true" alt='pic-skills' height='75' />
