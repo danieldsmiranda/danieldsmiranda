@@ -1,8 +1,8 @@
 # Hi there, my name is Daniel Miranda <img src="" alt='pic' align="right" height="150" style="border-radius:50px;"  />
 I'm from Portugal, and i'm currently studying computer engineering at the Polytechnic Institute of Viana do Castelo.
 
-## Skills 👨🏻‍💻
-<div style="display: inline_block"><br>
+## Skills <img src="https://github.com/danieldsmiranda/danieldsmiranda/blob/main/Imagem.png?raw=true" alt='pic-skills' height='75' />
+<div style="display: inline_block" align="center"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt='java' height='40' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt='c' height='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt='cpp' height='40'/>
