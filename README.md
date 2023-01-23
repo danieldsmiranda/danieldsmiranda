@@ -1,5 +1,5 @@
 # Hi there, my name is Daniel Miranda
-
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://github.com/danieldsmiranda/danieldsmiranda/blob/main/AB2513A0-2F34-4D03-83C7-4A0651F145C8.jpeg?raw=true)" alt='pic' height='100' />
 I'm from Portugal, and i'm currently studying computer engineering at the Polytechnic Institute of Viana do Castelo.
 ## Skills 👨🏻‍💻
 <div style="display: inline_block"><br>
