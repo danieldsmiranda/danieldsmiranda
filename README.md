@@ -1,4 +1,5 @@
-# Hi there, my name is Daniel Miranda <img src="https://github.com/danieldsmiranda/danieldsmiranda/blob/main/welcomePic.png?raw=true" alt='pic' align="right" height="150"/>
+# Hi there, my name is Daniel Miranda 
+<img src="https://github.com/danieldsmiranda/danieldsmiranda/blob/main/welcomePic.png?raw=true" alt='pic' align="right" height="150"/>
 
 <div>
   My name is Daniel Miranda, and I am a highly motivated individual with a passion for technology. I am currently pursuing a degree in computer engineering and strive to constantly expand my knowledge and skills in this field. In my free time, I enjoy staying active through sports such as football and working out at the gym, and I also like spending quality time with my friends. One of my defining characteristics is the meticulousness and earnestness with which I approach all of my projects and tasks, ensuring that each one is completed to the best of my abilities.
