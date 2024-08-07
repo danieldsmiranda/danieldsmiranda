@@ -2,7 +2,7 @@
 <img src="https://github.com/danieldsmiranda/danieldsmiranda/blob/main/welcomePic.png?raw=true" alt='pic' align="right" height="150"/>
 
 <div>
-  My name is Daniel Miranda, and I am a highly motivated individual with a passion for technology. I am currently pursuing a degree in computer engineering and strive to constantly expand my knowledge and skills in this field. In my free time, I enjoy staying active through sports such as football and working out at the gym, and I also like spending quality time with my friends. One of my defining characteristics is the meticulousness and earnestness with which I approach all of my projects and tasks, ensuring that each one is completed to the best of my abilities.
+  Hello, my name is Daniel Miranda. I'm a highly motivated person with a passion for technology. I recently completed a degree in Computer Engineering and am currently studying for a master's degree in the same field to expand my knowledge and skills. In my spare time I like to keep active by playing sports such as football and exercising in the gym, as well as enjoying good times in the company of my friends. A characteristic that defines me is the seriousness with which I approach all my projects and tasks, ensuring that each one is completed to the best of my abilities.
 </div><br>
 
   ##
